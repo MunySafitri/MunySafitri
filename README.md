@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Information Retrieval, Machine Learning, Python, React.js, and so on..**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1uMRp8qthOtDXhtlR1IAlxfFSc29ATeo2/view?usp=sharing](https://drive.google.com/file/d/1uMRp8qthOtDXhtlR1IAlxfFSc29ATeo2/view?usp=sharing)
+- 👨‍💻 My CV at [https://bit.ly/3UXU0Z9)
 
 - 📫 How to reach me **mury220@mhs.unsyiah.ac.id**
 
