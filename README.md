@@ -1,7 +1,7 @@
 <h1 align="center">HELLO EVERYBODY.. 👋, I'm Muny Safitri</h1>
 <h3 align="center">I'm Interested Studying Any Programing Language</h3>
 
-- 🌱 I’m currently learning **Information Retrieval, Machine Learning, Python, React.js, and so on..**
+- 🌱 I’m currently learning **Information Retrieval, Machine Learning, Python, React.js, Java Script (Advance) and so on..**
 
 - 👨‍💻 My CV at [https://bit.ly/3UXU0Z9)
 
