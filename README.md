@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Information Retrieval, Machine Learning, Python, React.js, Java Script (Advance) and so on..**
 
-- 👨‍💻 My CV at [https://bit.ly/3UXU0Z9)
+- 👨‍💻 My CV at [https://bit.ly/3lRoxvh)
 
 - 📫 How to reach me **mury220@mhs.unsyiah.ac.id**
 
